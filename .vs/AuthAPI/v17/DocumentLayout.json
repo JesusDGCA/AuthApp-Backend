@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BDD8BF-C580-4ACC-B471-DF785B1BFAD5}|AuthAPI\\AuthAPI.csproj|c:\\users\\jezuz\\onedrive\\escritorio\\utl\\9nocuatrimestre\\desarrollowebintegral\\authapi\\authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BDD8BF-C580-4ACC-B471-DF785B1BFAD5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BDD8BF-C580-4ACC-B471-DF785B1BFAD5}|AuthAPI\\AuthAPI.csproj|c:\\users\\jezuz\\onedrive\\escritorio\\utl\\9nocuatrimestre\\desarrollowebintegral\\authapi\\authapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BDD8BF-C580-4ACC-B471-DF785B1BFAD5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BDD8BF-C580-4ACC-B471-DF785B1BFAD5}|AuthAPI\\AuthAPI.csproj|c:\\users\\jezuz\\onedrive\\escritorio\\utl\\9nocuatrimestre\\desarrollowebintegral\\authapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0BDD8BF-C580-4ACC-B471-DF785B1BFAD5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:46:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T11:41:56.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Jezuz\\OneDrive\\Escritorio\\UTL\\9noCuatrimestre\\DesarrolloWebIntegral\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAcwM0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:34:50.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
